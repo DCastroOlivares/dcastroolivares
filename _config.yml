@@ -4,3 +4,6 @@ title: DCastroOlivares.tk
 description: Coming soon...
 
 show_downloads: false
+
+sass:
+  style: expanded # possible values: nested expanded compact compressed
