@@ -6,3 +6,5 @@ show_downloads: false
 sass:
   sass_dir: _sass
   style: expanded # possible values: nested expanded compact compressed
+
+theme: jekyll-theme-minimal
